@@ -12,7 +12,7 @@ As part of my work in cybersecurity, I analyze malware to understand its functio
 
 ## Structure
 
-The repository is organized to make navigation and retrieval of reports easy. Each folder or file is named based on the report title, with insights on the main discussed topic.
+The repository is organized to make navigation and retrieval of reports easy. Each folder or file is named based on the report title, with insights on the main discussed topic. Inside each folder there will also be provided a **SUMMARY.md** file. It will contain some key concepts and findings extracted from the full-report.
 
 ## File Format
 All reports are provided in **PDF format** to ensure accessibility and consistency across different devices.
